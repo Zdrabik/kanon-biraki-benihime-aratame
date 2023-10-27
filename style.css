@@ -1,1 +1,13 @@
-
+body{
+  background-color: yellow;
+}
+h1{
+  text-align: center;
+}
+.head{
+  background-color: blue;
+}
+#head2{
+    background-color: red;
+  color:white;
+}
