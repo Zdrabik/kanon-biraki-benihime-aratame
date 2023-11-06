@@ -19,7 +19,7 @@ body {
 }
 
 .header {
-    background-color: #ffffff;
+    background-color: aqua;
     border-bottom: 2px solid black;
     text-align: center;
     padding: 20px;
@@ -34,7 +34,7 @@ body {
 }
 
 .footer {
-    background-color: #ffffff;
+    background-color: blue;
     text-align: center;
     padding: 10px;
 }
