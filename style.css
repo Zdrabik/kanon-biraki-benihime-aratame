@@ -38,3 +38,7 @@ body {
     text-align: center;
     padding: 10px;
 }
+.vocab {
+    color: green;
+    font-weight: bold;
+}
