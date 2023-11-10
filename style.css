@@ -42,3 +42,14 @@ body {
     color: green;
     font-weight: bold;
 }
+div a{
+  background-color: antiquewhite;
+  padding: white;
+}
+a > h1{
+  background-color: blue;
+  color: white;
+}
+a + a {
+  background-color: red;
+}
