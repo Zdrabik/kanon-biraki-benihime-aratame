@@ -61,4 +61,21 @@ a > h3 {
   background-color: orange;
   color: blue;
 }
-
+p:hover {
+  color: green;
+  front-weight: bold;
+}
+p::before {
+  content: 'Hello';
+  color: red;
+  front-weight: bold;
+}
+p::after {
+    content: 'Bye!';
+  color: red;
+  front-weight: bold;
+}
+p::selection {
+  background-color: antiquewhite;
+  padding: white;
+}
