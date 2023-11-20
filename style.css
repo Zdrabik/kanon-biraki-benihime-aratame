@@ -115,3 +115,8 @@ h3 {
  background-color: aquamarine;
  text-align: center;
 }
+    .myDiv {
+        padding: 20 px;
+        margin: 10 px;
+        filter: grayscale (100%);
+    }
