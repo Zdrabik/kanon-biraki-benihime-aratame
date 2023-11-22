@@ -137,12 +137,12 @@ background-color: rgb(246, 213, 213);
 height: 400px;
 }
 .footer {
-background-color: Orgb(37, 27, 27);
+background-color: rgb(37, 27, 27);
 height: 20px;
 height: 100px;
 }
 img
 {
-width: 100%;
+width: 30%;
 filter: grayscale(100%) invert (100%) ;
 }
