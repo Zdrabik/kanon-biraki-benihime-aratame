@@ -146,3 +146,17 @@ img{
 width: 100%;
 filter: grayscale(100%) invert(100%) ;
 }
+@key frames my-animation{
+    from {background-color}: white;
+to {background-color}: red;
+}
+body {
+animation: my-animation 2s backward;
+}
+img {
+width: 500px;
+transition: 0.5s;
+}
+img:active {
+width:800px;
+}
